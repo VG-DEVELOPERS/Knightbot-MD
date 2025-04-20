@@ -70,7 +70,7 @@ For further customization and setup guidance, click the button below:
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/)
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mruniquehacker/KnightBot-MD)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/VG-DEVELOPERS/Knightbot-MD)
 
 [![Deploy on Replit](https://repl.it/badge/github/quiec/whatsasena)](https://repl.it/github/mruniquehacker/KnightBot-MD)
 
